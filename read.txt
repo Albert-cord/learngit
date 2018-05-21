@@ -2,4 +2,4 @@ git learning file;
 git change something to see a version control.
 git change something to setback a error.
 this is an test.
-git track change£»
+git track change so commit before what you have change.
